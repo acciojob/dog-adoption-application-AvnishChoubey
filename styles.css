@@ -6,12 +6,34 @@ form {
 	background-position: center;
 }
 
-#submit {
-	position: ;
+#address {
+	width: 88.1%;
+}
+
+#checkbox {
+	
+}
+
+input {
+	margin: 2% 0% 0% 0%;
+}
+
+#name {
+	width: 90.4%
+}
+
+#phone {
+	width: 81%;
+}
+
+button {
+	border-radius: 30px;
+	width: 25%;
+	margin-top: 5%;
+	margin-left: 35%;
+	margin-bottom: 2%;
 }
 
 #submit:hover {
-  background-color: lightblue;
+	background-color: lightblue;
 }
-
-#
